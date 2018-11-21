@@ -10,3 +10,24 @@
  - HTK的语音模型十分成熟，我们认为在发音评价上可以有较大的发展的可能性。
 >语音识别模型
 
+![](http://sqrt7.cn/p1.png)
+>HMM模型
+
+![](http://sqrt7.cn/p6.png)
+![](http://sqrt7.cn/p2.png)
+>识别句子
+
+![](http://sqrt7.cn/p3.png)
+>维特比算法
+
+ - 用于寻找观察结果最有可能解释相关的动态规划算法
+凡是使用隐马尔可夫模型描述的问题都可以用维特比算法来解码
+
+![](http://sqrt7.cn/p4.png)
+>总体评分
+
+![](http://sqrt7.cn/p5.png)
+>APP初步设想
+
+![](http://sqrt7.cn/p7.png)
+![](http://sqrt7.cn/p8.png)
